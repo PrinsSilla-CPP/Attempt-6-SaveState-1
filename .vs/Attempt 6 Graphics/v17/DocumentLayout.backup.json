@@ -1,0 +1,144 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\silde\\Desktop\\Attempt 6 Graphics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8F41B8-DA30-431B-BB73-6D44CF042380}|Attempt 6 Graphics\\Attempt 6 Graphics.vcxproj|C:\\Users\\silde\\Desktop\\Attempt 6 Graphics\\Attempt 6 Graphics\\Attempt 6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7E8F41B8-DA30-431B-BB73-6D44CF042380}|Attempt 6 Graphics\\Attempt 6 Graphics.vcxproj|solutionrelative:Attempt 6 Graphics\\Attempt 6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8F41B8-DA30-431B-BB73-6D44CF042380}|Attempt 6 Graphics\\Attempt 6 Graphics.vcxproj|C:\\Users\\silde\\Desktop\\Attempt 6 Graphics\\Attempt 6 Graphics\\Lexer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7E8F41B8-DA30-431B-BB73-6D44CF042380}|Attempt 6 Graphics\\Attempt 6 Graphics.vcxproj|solutionrelative:Attempt 6 Graphics\\Lexer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8F41B8-DA30-431B-BB73-6D44CF042380}|Attempt 6 Graphics\\Attempt 6 Graphics.vcxproj|C:\\Users\\silde\\Desktop\\Attempt 6 Graphics\\Attempt 6 Graphics\\TokenTypeList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7E8F41B8-DA30-431B-BB73-6D44CF042380}|Attempt 6 Graphics\\Attempt 6 Graphics.vcxproj|solutionrelative:Attempt 6 Graphics\\TokenTypeList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8F41B8-DA30-431B-BB73-6D44CF042380}|Attempt 6 Graphics\\Attempt 6 Graphics.vcxproj|C:\\Users\\silde\\Desktop\\Attempt 6 Graphics\\Attempt 6 Graphics\\CodeGen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7E8F41B8-DA30-431B-BB73-6D44CF042380}|Attempt 6 Graphics\\Attempt 6 Graphics.vcxproj|solutionrelative:Attempt 6 Graphics\\CodeGen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8F41B8-DA30-431B-BB73-6D44CF042380}|Attempt 6 Graphics\\Attempt 6 Graphics.vcxproj|C:\\Users\\silde\\Desktop\\Attempt 6 Graphics\\Attempt 6 Graphics\\Type_checker.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7E8F41B8-DA30-431B-BB73-6D44CF042380}|Attempt 6 Graphics\\Attempt 6 Graphics.vcxproj|solutionrelative:Attempt 6 Graphics\\Type_checker.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8F41B8-DA30-431B-BB73-6D44CF042380}|Attempt 6 Graphics\\Attempt 6 Graphics.vcxproj|C:\\Users\\silde\\Desktop\\Attempt 6 Graphics\\Attempt 6 Graphics\\Parser.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7E8F41B8-DA30-431B-BB73-6D44CF042380}|Attempt 6 Graphics\\Attempt 6 Graphics.vcxproj|solutionrelative:Attempt 6 Graphics\\Parser.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8F41B8-DA30-431B-BB73-6D44CF042380}|Attempt 6 Graphics\\Attempt 6 Graphics.vcxproj|C:\\Users\\silde\\Desktop\\Attempt 6 Graphics\\Attempt 6 Graphics\\ListOfAllThingsThatNeedToBeAdded.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7E8F41B8-DA30-431B-BB73-6D44CF042380}|Attempt 6 Graphics\\Attempt 6 Graphics.vcxproj|solutionrelative:Attempt 6 Graphics\\ListOfAllThingsThatNeedToBeAdded.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Attempt 6.cpp",
+              "DocumentMoniker": "C:\\Users\\silde\\Desktop\\Attempt 6 Graphics\\Attempt 6 Graphics\\Attempt 6.cpp",
+              "RelativeDocumentMoniker": "Attempt 6 Graphics\\Attempt 6.cpp",
+              "ToolTip": "C:\\Users\\silde\\Desktop\\Attempt 6 Graphics\\Attempt 6 Graphics\\Attempt 6.cpp",
+              "RelativeToolTip": "Attempt 6 Graphics\\Attempt 6.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-30T17:48:53.298Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CodeGen.h",
+              "DocumentMoniker": "C:\\Users\\silde\\Desktop\\Attempt 6 Graphics\\Attempt 6 Graphics\\CodeGen.h",
+              "RelativeDocumentMoniker": "Attempt 6 Graphics\\CodeGen.h",
+              "ToolTip": "C:\\Users\\silde\\Desktop\\Attempt 6 Graphics\\Attempt 6 Graphics\\CodeGen.h",
+              "RelativeToolTip": "Attempt 6 Graphics\\CodeGen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-11T18:28:26.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Type_checker.h",
+              "DocumentMoniker": "C:\\Users\\silde\\Desktop\\Attempt 6 Graphics\\Attempt 6 Graphics\\Type_checker.h",
+              "RelativeDocumentMoniker": "Attempt 6 Graphics\\Type_checker.h",
+              "ToolTip": "C:\\Users\\silde\\Desktop\\Attempt 6 Graphics\\Attempt 6 Graphics\\Type_checker.h",
+              "RelativeToolTip": "Attempt 6 Graphics\\Type_checker.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-11T18:28:23.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Parser.h",
+              "DocumentMoniker": "C:\\Users\\silde\\Desktop\\Attempt 6 Graphics\\Attempt 6 Graphics\\Parser.h",
+              "RelativeDocumentMoniker": "Attempt 6 Graphics\\Parser.h",
+              "ToolTip": "C:\\Users\\silde\\Desktop\\Attempt 6 Graphics\\Attempt 6 Graphics\\Parser.h",
+              "RelativeToolTip": "Attempt 6 Graphics\\Parser.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-11T18:28:19.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lexer.h",
+              "DocumentMoniker": "C:\\Users\\silde\\Desktop\\Attempt 6 Graphics\\Attempt 6 Graphics\\Lexer.h",
+              "RelativeDocumentMoniker": "Attempt 6 Graphics\\Lexer.h",
+              "ToolTip": "C:\\Users\\silde\\Desktop\\Attempt 6 Graphics\\Attempt 6 Graphics\\Lexer.h",
+              "RelativeToolTip": "Attempt 6 Graphics\\Lexer.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-11T18:28:15.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TokenTypeList.h",
+              "DocumentMoniker": "C:\\Users\\silde\\Desktop\\Attempt 6 Graphics\\Attempt 6 Graphics\\TokenTypeList.h",
+              "RelativeDocumentMoniker": "Attempt 6 Graphics\\TokenTypeList.h",
+              "ToolTip": "C:\\Users\\silde\\Desktop\\Attempt 6 Graphics\\Attempt 6 Graphics\\TokenTypeList.h",
+              "RelativeToolTip": "Attempt 6 Graphics\\TokenTypeList.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-10T15:03:00.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ListOfAllThingsThatNeedToBeAdded.h",
+              "DocumentMoniker": "C:\\Users\\silde\\Desktop\\Attempt 6 Graphics\\Attempt 6 Graphics\\ListOfAllThingsThatNeedToBeAdded.h",
+              "RelativeDocumentMoniker": "Attempt 6 Graphics\\ListOfAllThingsThatNeedToBeAdded.h",
+              "ToolTip": "C:\\Users\\silde\\Desktop\\Attempt 6 Graphics\\Attempt 6 Graphics\\ListOfAllThingsThatNeedToBeAdded.h",
+              "RelativeToolTip": "Attempt 6 Graphics\\ListOfAllThingsThatNeedToBeAdded.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAI8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-10T14:39:07.615Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
